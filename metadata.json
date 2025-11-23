@@ -1,0 +1,7 @@
+{
+  "name": "SmartStep AI Foot Analysis",
+  "description": "An AI-powered foot analysis tool that uses computer vision to detect deformities, estimate foot arch, and generate diagnostic insights from uploaded images of feet. Provides a simple dashboard for clinical decision support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
